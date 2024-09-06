@@ -34,10 +34,11 @@ This project leverages a Convolutional Neural Network (CNN) to predict plant dis
 - Virtual environment (optional but recommended)
 
 ### Run the Streamlit App
+
+![output](https://github.com/user-attachments/assets/e8bc2801-3e65-463d-9953-50dce940068d)
+
 To start the Streamlit application, run the following command:
 
 ```bash
 streamlit run main.py
-<hr>
 
-![output](https://github.com/user-attachments/assets/e8bc2801-3e65-463d-9953-50dce940068d)
